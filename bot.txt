@@ -1,0 +1,4 @@
+# Файл содержащий информацию о Telegram - Боте
+# '#' - комментарий
+# <Bot_user_name> <пробел> <Bot_token>
+@kfh1567_bot 5665588710:AAF41tF61xNX7XKc-vmkvwfKswBbeGW62sw
